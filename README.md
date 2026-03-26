@@ -16,7 +16,7 @@
       <br><br>
       $\color{#bd1a09}{\textsf{veska . ves }}$ $\color{#a27175}{\textsf{or jude!}}$<br>
       $\color{#dbe1f3}{\textsf{  she / any . unlabeled }}$<br>
-      $\color{#a27175}{\textsf{5teen }}$<br>
+      $\color{#a27175}{\textsf{teenager}}$<br>
       $\color{#bd1a09}{\textsf{w2i . c+h heavily encouraged ! }}$<br>
       $\color{#dbe1f3}{\textsf{dont copy my ponies pls :C }}$<br>
        $\color{#a27175}{\textsf{inspo is ok  }}$<br>
