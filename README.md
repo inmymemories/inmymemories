@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <img width="500" height="400"
-       src="https://i.pinimg.com/736x/fc/f2/5d/fcf25dbdbd23023799c9fe8f103c0489.jpg"
+       src="https://i.pinimg.com/1200x/8f/08/a2/8f08a2fe0f3365dd9f06390cf3e86a49.jpg"
        title="art cred: chungiwatermelon on pin">
 </p>
           <table border="0" align="center">
