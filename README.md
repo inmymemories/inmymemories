@@ -1,16 +1,27 @@
+
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Eagle+Lake&duration=4000&pause=500&color=982719&background=FFF4E6AE&width=435&lines=were+we+ever+meant+to+be+saved%3F;%E2%80%A6no%2C+just+meant+to+meet." alt="Typing SVG" /a>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31btooc25kcsxoizqt5cyxjxn4va&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ffffff&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false">
+  </a>
 </p>
+
+
+
+
+
+
+
+
 <p align="center">
   <img width="500" height="400"
-       src="https://i.pinimg.com/1200x/8f/08/a2/8f08a2fe0f3365dd9f06390cf3e86a49.jpg"
-       title="art cred: chungiwatermelon on pin">
+       src="https://github.com/veskarr/veskarr/blob/main/Adobe%20Express%20-%20file.png?raw=true"
+       title="art cred: kcokaine_">
 </p>
           <table border="0" align="center">
   <tr>
     <th align="center">
        <br>  
-         <img src="https://64.media.tumblr.com/3443d282e1bbf2115021445057754968/7ff15572939cc448-d0/s75x75_c1/5f142c02375aea7ddc2bc87ed18f1c645c26fad1.gifv" 
+         <img src="https://file.garden/aXu9FpkcPAJchg9c/Pixels/Red/f3h8on.gif" 
            width="50" 
            alt="flower">
       <br><br>
@@ -23,7 +34,3 @@
     </th>
   </tr>
 </table>
- 
-      
-
-  　　 　　　　
