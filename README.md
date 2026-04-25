@@ -2,8 +2,7 @@
    <img src="https://cdn3.emoji.gg/emojis/2908-mc-dying.gif" width="100"/>
    </p>‎
  
-<p align="center">
-$${\textsf{\color{#878582}゛Сейчас я один никому я - не рад.  〞}}$$
+
 <p align="center">
   <img src="b28b730783ada0fd147dae310006aeb9__fliter--warm-sea__channel--all__mode--exclusion.jpeg" width="500"/>
 
@@ -27,6 +26,7 @@ $${\textsf{\color{#ed4f4f} veskar 、ves    }}$$<img src="https://cdn3.emoji.gg/
                   <p align="center">
 $${\textsf{\color{#436771} she . her ♡　  }}$$
                     <p align="center">
-$${\textsf{\color{#843349} c + h  enc . take inspo if u need .  〞}}$$
+$${\textsf{\color{#843349} im mostly in parties or docks .  〞}}$$
                    </p>   
+                   
 
