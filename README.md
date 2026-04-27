@@ -20,7 +20,7 @@
           <table border="0" align="center">
               <th align="center">
               <p align="center">
-$${\textsf{\color{#ed4f4f} veskar 、ves    }}$$<img src="https://cdn3.emoji.gg/emojis/2586-minecraft-campfire.gif" width="30"/>$${\textsf{\color{#878582}. }}$$
+$${\textsf{\color{#ed4f4f} veskar 、ves  、 jude    }}$$<img src="https://cdn3.emoji.gg/emojis/2586-minecraft-campfire.gif" width="30"/>$${\textsf{\color{#878582}. }}$$
                 <p align="center">
 <img src="https://cdn3.emoji.gg/emojis/3380-minecraftcakespin.gif" width="30"/>$${\textsf{\color{#84898d}　5teen  |   5th april  }}$$
                   <p align="center">
