@@ -4,7 +4,7 @@
  
 
 <p align="center">
-  <img src="b28b730783ada0fd147dae310006aeb9__fliter--warm-sea__channel--all__mode--exclusion.jpeg" width="500"/>
+  <img src="b28b730783ada0fd147dae310006aeb9__fliter--warm-sea__channel--all__mode--exclusion.jpeg" width="1000"/>
 
  </p>
  ‎ ‎‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎  <p align="center">$${\textsf{\color{#878582}𓎢𓎠𓎟𓎠𓎡}}$$
